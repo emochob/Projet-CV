@@ -1,0 +1,68 @@
+h1 {
+    color:deeppink;
+    font-family:cursive;
+}
+
+h2 {
+    font-family:'Courier New', Courier, monospace;
+}
+
+h3 {
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    
+}
+
+
+
+a {
+    font-family:cursive;
+    color:deeppink;
+}   
+    div.bandeau {
+       
+        text-align:center;
+        width:359px;
+        height:1000px;
+        background-color:rgb(0, 188, 235);
+        border: 10px inset rgb(255, 0, 191);
+        }
+        
+    body{
+        
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        background-image:url("https://i.pinimg.com/originals/7a/0f/2b/7a0f2b124e50b5b76ca9870634702117.gif");
+
+    }
+
+    div.contenu {
+        text-align: center;
+        width:460px;
+        height:1000px;
+        }
+
+        .contenu {
+        background-image:url("https://nexus.leagueoflegends.com/wp-content/uploads/2017/02/LOL_CMS_050_Article_02-1.jpg");
+        background-repeat:no-repeat ;
+        background-size: cover ;
+        width: 460px;  
+        border:10px outset rgb(60, 216, 29);
+        
+        }
+
+        .br 
+        {margin-top: 10.9cm;
+        }
+
+        p{
+            font-family: cursive;
+            color:rgb(0, 188, 235);
+        }
+#zzz
+{
+    border: 10px inset rgb(255, 0, 191);
+    width:95%;
+}
+        
